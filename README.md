@@ -12,3 +12,13 @@ LoginAutomation is a Selenium(Java) script to automate login process of Geminid 
   - Chrome driver for selenium version 2.41 (http://chromedriver.chromium.org/downloads)
   - opencsv 4.2 or above (https://sourceforge.net/projects/opencsv/)
   
+## Building
+
+Before building, ensure that you have all the jars as mentioned in Requirements section.
+
+### Steps to build :-
+  - Download the zip folder of project from Github.
+  - Unzip the folder and import the project into Eclipse.
+  - Add all downloaded jars into project.
+  - Place chromedriver.exe inside your project folder where data.csv is present.
+  - Run the project from eclipse.
