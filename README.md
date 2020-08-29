@@ -1,4 +1,4 @@
-## A Selenium webdriver + Java script to automate login process of a website.
+## Script (Selenium webdriver + Java) to automate login process of a website.
 
 ## Requirements
   
