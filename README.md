@@ -1,4 +1,4 @@
-## LoginAutomation is a Selenium(Java) script to automate login process of Geminid Systems website.
+## A Selenium webdriver + Java script to automate login process of a website.
 
 ## Requirements
   
